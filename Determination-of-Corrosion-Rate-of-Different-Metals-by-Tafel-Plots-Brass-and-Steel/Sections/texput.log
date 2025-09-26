@@ -1,0 +1,21 @@
+This is LuaTeX, Version 1.22.0 (MiKTeX 25.4) (format=dvilualatex 2025.9.25)  25 SEP 2025 15:08
+ restricted system commands enabled.
+**c:/Users/TUF GAMING\OneDrive\Documents\8vosemestre\Aplicaciones-de-los-materi
+ales\Lab\Prediction of corrosion\Sections\05-Questions and Problems.tex
+
+! Emergency stop.
+<*> c:/Users/TUF 
+                 GAMING\OneDrive\Documents\8vosemestre\Aplicaciones-de-los-m...
+
+Here is how much of LuaTeX's memory you used:
+ 5 strings out of 476286
+ 100000,460012 words of node,token memory allocated
+ 270 words of node memory still in use:
+   1 hlist, 39 glue_spec nodes
+   avail lists: 2:12,3:3,4:1,5:1
+ 22352 multiletter control sequences out of 65536+600000
+ 14 fonts using 591679 bytes
+ 0i,0n,0p,0b,6s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, bad output DVI file produced!
+No pages of output.
+

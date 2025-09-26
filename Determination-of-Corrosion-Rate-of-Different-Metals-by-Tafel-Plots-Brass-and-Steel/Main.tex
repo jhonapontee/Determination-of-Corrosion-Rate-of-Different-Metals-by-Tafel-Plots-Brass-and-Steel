@@ -1,0 +1,54 @@
+% Packages & Document Configurations
+\documentclass[twocolumn]{NobArticle}
+\runninghead{Shortened Running Article Title}
+%\footertext{\textit{Journal X} (2023) 12:684}
+\usepackage{chemformula}
+% Title
+\title{Determination of Corrosion Rate of Different Metals by Tafel Plots}
+
+% Authors
+\author{
+    Jhon Aponte\textsuperscript{1}, 
+    Josue Moreira\textsuperscript{1} 
+    and Diego Cedeno\textsuperscript{1}
+}
+
+% Affiliations
+\date{
+    \textsuperscript{\textbf{1}}
+    School of Chemical and Engineering sciences 
+}
+
+% Abstract
+\renewcommand{\maketitlehookd}{%
+\begin{abstract}
+This study investigates the electrochemical corrosion behavior of admiralty brass and steel electrodes through potentiodynamic polarization measurements and Tafel plot analysis in 0.5 M hydrochloric acid medium. The corrosion kinetics were evaluated using a three-electrode electrochemical cell configuration with titanium as counter electrode and Ag/AgCl (3 M KCl) as reference electrode. 
+
+Open circuit potential measurements revealed initial values of \(-142.9 \, \text{mV}\) for brass and \(-441 \, \text{mV}\) for steel. Linear sweep voltammetry was conducted at a scan rate of \(1 \, \text{mV/s}\) within \(\pm 200 \, \text{mV}\) around the open circuit potential to construct Tafel plots and determine corrosion parameters through linear extrapolation methods. 
+
+The brass electrode exhibited a corrosion current density of \(5.40 \times 10^{-6} \, \text{A/cm}^2\) and a corrosion potential of \(-0.258 \, \text{V}\), resulting in a corrosion penetration rate (CPR) of \(4.17 \times 10^{-5} \, \text{mm/year}\). The steel electrode showed a corrosion current density of \(8.87 \times 10^{-5} \, \text{A/cm}^2\) and a corrosion potential of \(-0.388 \, \text{V}\), yielding a CPR of \(8.23 \times 10^{-4} \, \text{mm/year}\). 
+
+The anodic and cathodic Tafel slopes were determined through linear regression analysis of the polarization curves.
+\medskip
+
+\small{\textbf{Keywords:} Electrochemical corrosion, Tafel plots, potentiodynamic polarization, corrosion rate, admiralty brass, steel}
+\end{abstract}
+}
+
+\begin{document}
+
+\small
+\maketitle
+
+\input{Sections/01-Introduction}
+\input{Sections/02-Methods}
+\input{Sections/03-Results_and_Discussion}
+\input{Sections/04-Conclusion}
+\input{Sections/05-Questions_and_Problems}
+
+
+
+\printbibliography
+
+
+\end{document}

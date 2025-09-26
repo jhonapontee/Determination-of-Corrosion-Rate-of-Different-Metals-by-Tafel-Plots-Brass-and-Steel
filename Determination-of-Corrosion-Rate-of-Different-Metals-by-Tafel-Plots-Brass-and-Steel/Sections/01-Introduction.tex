@@ -1,0 +1,34 @@
+\section{Introduction}
+Metallic corrosion represents one of the most significant phenomena in the degradation of materials, being a spontaneous electrochemical process that involves the oxidation of the metal in the presence of an oxidizing agent from the environment. This process results in the progressive loss of mechanical and structural properties, generating severe economic and safety consequences in industrial applications. The electrochemical mechanism of corrosion is based on the formation of microscopic galvanic cells on the metallic surface, where anodic reactions (metal oxidation) and cathodic reactions (reduction of the oxidizing agent) occur simultaneously. In the specific case of steel in acidic media, the reactions can be represented as:
+
+\textbf{Anodic reaction:} Fe $\rightarrow$ Fe$^{2+}$ + 2e$^{-}$
+
+\textbf{Cathodic reaction:} 2H$^{+}$ + 2e$^{-}$ $\rightarrow$ H$_2$
+
+The rate of these processes is controlled by kinetic factors that can be studied through advanced electrochemical techniques. Among them, Tafel plots are a fundamental tool for the quantitative characterization of corrosion processes, allowing for the accurate determination of critical kinetic parameters such as the corrosion potential ($E_{\mathrm{corr}}$) and the corrosion current density ($j_{\mathrm{corr}}$)~ \cite{stern1957}.
+
+This technique is based on the Tafel equation:
+
+
+
+\[
+\eta = \pm b \log \left(\frac{j}{j_0}\right)
+\]
+
+
+
+where $\eta$ is the overpotential, $b$ is the Tafel slope, $j$ is the current density, and $j_0$ is the exchange current density. The interpretation of Tafel plots involves identifying linear regions in the anodic and cathodic branches of the semilogarithmic potential vs. log(current density) curve. The extrapolation of these linear regions until their intersection directly provides the values of $E_{\text{corr}}$ and $j_{\text{corr}}$. This procedure, known as Tafel extrapolation, is widely recognized for its precision and reproducibility in corrosion evaluation, although it must be noted that in certain systems only one branch may exhibit a well-defined linear region due to passivation, diffusion, or other mechanistic effects.
+
+The corrosion penetration rate (CPR) is calculated by applying Faraday’s law of electrolysis:
+
+
+
+\[
+\mathrm{CPR} = \frac{0.13 \times j_{\mathrm{corr}} \times \mathrm{E.W.}}{\rho}
+\]
+
+
+
+where E.W. is the equivalent weight of the metal (g/\text{equiv}), $\rho$ is the density (g/cm$^3$), and $j_{\mathrm{corr}}$ is expressed in $\mu$A/cm$^2$. This relationship allows the conversion of electrochemical data into practical corrosion rates expressed in units such as $\mathrm{mpy}$ (mils per year). The constant 0.13 results from a combination of Faraday’s constant and unit conversions, and it is valid only when the parameters are expressed in the specified units.
+
+The Tafel plot technique finds extensive applications in evaluating the corrosion resistance of alloys, testing the efficiency of corrosion inhibitors, and characterizing protective coatings. In industrial practice, this methodology enables the prediction of the service life of metallic components and the optimization of cathodic protection strategies. Moreover, the application of linear sweep voltammetry to construct potentiodynamic polarization curves provides further insights into corrosion mechanisms, including the identification of passivation processes, pitting, and intergranular corrosion \cite{bard2001}.

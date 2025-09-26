@@ -1,0 +1,242 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{stern1957}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=69159be6d974e4000e283861f1f7d194}{%
+           family={Stern},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=29a260ea796763ab14b320b0c2f12b7d}{%
+           family={Geary},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f901122c037674e9d538e17e9b4ac41}
+      \strng{fullhash}{4f901122c037674e9d538e17e9b4ac41}
+      \strng{fullhashraw}{4f901122c037674e9d538e17e9b4ac41}
+      \strng{bibnamehash}{4f901122c037674e9d538e17e9b4ac41}
+      \strng{authorbibnamehash}{4f901122c037674e9d538e17e9b4ac41}
+      \strng{authornamehash}{4f901122c037674e9d538e17e9b4ac41}
+      \strng{authorfullhash}{4f901122c037674e9d538e17e9b4ac41}
+      \strng{authorfullhashraw}{4f901122c037674e9d538e17e9b4ac41}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Electrochemical Society}
+      \field{number}{1}
+      \field{title}{Electrochemical Polarization: I. A Theoretical Analysis of the Shape of Polarization Curves}
+      \field{volume}{104}
+      \field{year}{1957}
+      \field{pages}{56\bibrangedash 63}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1149/1.2428655
+      \endverb
+    \endentry
+    \entry{bard2001}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=fb2d76fb5684bce57029d2780192d230}{%
+           family={Bard},
+           familyi={B\bibinitperiod},
+           given={Allen\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5b4a8fac30606d30220e8a335d924716}{%
+           family={Faulkner},
+           familyi={F\bibinitperiod},
+           given={Larry\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{40cd206d04c78b776f61d0876b1c65ed}
+      \strng{fullhash}{40cd206d04c78b776f61d0876b1c65ed}
+      \strng{fullhashraw}{40cd206d04c78b776f61d0876b1c65ed}
+      \strng{bibnamehash}{40cd206d04c78b776f61d0876b1c65ed}
+      \strng{authorbibnamehash}{40cd206d04c78b776f61d0876b1c65ed}
+      \strng{authornamehash}{40cd206d04c78b776f61d0876b1c65ed}
+      \strng{authorfullhash}{40cd206d04c78b776f61d0876b1c65ed}
+      \strng{authorfullhashraw}{40cd206d04c78b776f61d0876b1c65ed}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Electrochemical Methods: Fundamentals and Applications}
+      \field{year}{2001}
+    \endentry
+    \entry{laamari_2011_corrosion}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=cdf3f908fbf5b4dae53ea7ee0a659c3d}{%
+           family={Laamari},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9fe03716d0442b0258c7403a29b711be}{%
+           family={Benzakour},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=23d99935a5774eb231960b000d9345ca}{%
+           family={Berrekhis},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f917fada25cefcf19aa1e1572e64c497}{%
+           family={Abouelfida},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a26b3231014347fad603119e2528d910}{%
+           family={Derja},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6fb01e2d9253043eef2d28b50cb88548}{%
+           family={Villemin},
+           familyi={V\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f1afc27fe2a5d257c37b70cbd3cdf6c}
+      \strng{fullhash}{e6a312c597130cf1e12809298f59c545}
+      \strng{fullhashraw}{e6a312c597130cf1e12809298f59c545}
+      \strng{bibnamehash}{e6a312c597130cf1e12809298f59c545}
+      \strng{authorbibnamehash}{e6a312c597130cf1e12809298f59c545}
+      \strng{authornamehash}{5f1afc27fe2a5d257c37b70cbd3cdf6c}
+      \strng{authorfullhash}{e6a312c597130cf1e12809298f59c545}
+      \strng{authorfullhashraw}{e6a312c597130cf1e12809298f59c545}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Arabian Journal of Chemistry}
+      \field{month}{07}
+      \field{title}{Corrosion inhibition of carbon steel in hydrochloric acid 0.5M by hexa methylene diamine tetramethyl-phosphonic acid}
+      \field{volume}{4}
+      \field{year}{2011}
+      \field{pages}{271\bibrangedash 277}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.arabjc.2010.06.046
+      \endverb
+    \endentry
+    \entry{loveday_electrochemical}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9ac4eeaa9746636c52b6114e61aeaac3}{%
+           family={Loveday},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \strng{fullhash}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \strng{fullhashraw}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \strng{bibnamehash}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \strng{authorbibnamehash}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \strng{authornamehash}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \strng{authorfullhash}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \strng{authorfullhashraw}{9ac4eeaa9746636c52b6114e61aeaac3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electrochemical Corrosion Rate Measurement -- A Comparison}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gamry.com/assets/Uploads/Electrochemical-Corrosion-Measurements.pdf?utm_source=chatgpt.com
+      \endverb
+      \verb{url}
+      \verb https://www.gamry.com/assets/Uploads/Electrochemical-Corrosion-Measurements.pdf?utm_source=chatgpt.com
+      \endverb
+    \endentry
+    \entry{radovanovi_2019_electrochemical}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=ead4034aef36bd3737757f19a3317013}{%
+           family={Radovanović},
+           familyi={R\bibinitperiod},
+           given={Milan\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=9e30096e1b9f67f50eaafb6e3541cee3}{%
+           family={Tasić},
+           familyi={T\bibinitperiod},
+           given={Žaklina\bibnamedelima Z},
+           giveni={Ž\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=31cadd52651f0ac866d3699c752fed0c}{%
+           family={Petrović\bibnamedelima Mihajlović},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Marija\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c05c1d684cce58bcbb24aea0a7adb1a9}{%
+           family={Simonović},
+           familyi={S\bibinitperiod},
+           given={Ana\bibnamedelima T},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=65aa358da03a164a380d1cbec03425a8}{%
+           family={Antonijević},
+           familyi={A\bibinitperiod},
+           given={Milan\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Portfolio}%
+      }
+      \strng{namehash}{b6acee2865ec9706bcb00c267d59ad18}
+      \strng{fullhash}{8c7a76e1bfec53ddb74c7ae5027a56b6}
+      \strng{fullhashraw}{8c7a76e1bfec53ddb74c7ae5027a56b6}
+      \strng{bibnamehash}{8c7a76e1bfec53ddb74c7ae5027a56b6}
+      \strng{authorbibnamehash}{8c7a76e1bfec53ddb74c7ae5027a56b6}
+      \strng{authornamehash}{b6acee2865ec9706bcb00c267d59ad18}
+      \strng{authorfullhash}{8c7a76e1bfec53ddb74c7ae5027a56b6}
+      \strng{authorfullhashraw}{8c7a76e1bfec53ddb74c7ae5027a56b6}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{11}
+      \field{title}{Electrochemical and DFT studies of brass corrosion inhibition in 3\% NaCl in the presence of environmentally friendly compounds}
+      \field{volume}{9}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1038/s41598-019-52635-2
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-019-52635-2
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-019-52635-2
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
